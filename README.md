@@ -16,7 +16,7 @@ This project was made as a part of a course called Knowledge Management.
 
 ## Description
 
-The purpose of this project is to analyze data collected from a Croatian web portal  [Požeška kronika] (https://pozeska-kronika.hr), and to generate new knowledge based on this data.
+The purpose of this project is to analyze data collected from a Croatian web portal  [Požeška kronika](https://pozeska-kronika.hr), and to generate new knowledge based on this data.
 
 
  
