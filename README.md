@@ -10,13 +10,18 @@ This project was made as a part of a course called Knowledge Management.
 <b>Mentor:</b>
 * izv. prof. dr. sc. Ana Meštrović
   
-<b>Programming language:</b> Python
+<b>Programming language:</b> Python 3
 
 <hr>
 
 ## Description
 
-The purpose of this project is to analyze data collected from a Croatian web portal  [Požeška kronika](https://pozeska-kronika.hr), and to generate new knowledge based on this data.
+The purpose of this project is to analyze data collected from a Croatian web portal  [Požeška kronika](https://pozeska-kronika.hr) and to generate new knowledge based on this data.
+
+The __first part__ of the project focuses on collecting and cleaning data from the web portal. After scraping, the data is saved to a .csv file for future use in the second part of the project.
+
+The goal of the __second part__ of the project is to analyze the collected data in regards to the current pandemic of Covid-19.  The analysis of the articles provided an insight into the presence of Covid-19 in the media.
+
 
 
  
