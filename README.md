@@ -201,7 +201,7 @@ __February__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_1.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_1.png" width="250" style="text-align:center" >
 
 </div>
 
