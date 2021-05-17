@@ -377,3 +377,13 @@ __November__
 
 <br>
 
+In February, there were only 3 articles recognized as Covid-related, and the words used in them were mostly related to cervical cancer and vaccination. It's evident that some or all of those 3 articles were wrongly classified as Covid-related articles, probably based on the keyword 'vaccine'. 
+
+In March the language of the articles is clearly different compared to the previous month. The most common word is 'person', together with the words from the expression 'civil protection committee', 'corona' and 'measures'. Described is most likely the result of daily public reports by the civil protection committee, mentioning the number of people infected by Covid-19 and newly imposed measures. In April and May, the situation stays similar. 
+
+In the summer months, starting with June and all the way to November, the list of the most common words starts to contain words from the expression 'Croatian Institute for Public Health'. The previously mentioned common words also appear on the list. 
+
+Throughout the months the most common word is __'person'__, followed by __'measures'__, 'covid', 'corona', 'civil protection committee', and the number 19, which appeared on the list as a part of the expression Covid-19. Also, since Požeška kronika is a web portal of the County of Požega-Slavonia, the words 'county' and variations of 'Požega' regularly appear on the monthly lists of the most common words.
+
+Generally, the language discourse of the web portal seems informative and professional, as the final goal of most articles is to inform about the number of infected people or new measures, especially for the County of Požega-Slavonia.
+
