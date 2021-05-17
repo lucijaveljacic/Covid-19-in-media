@@ -161,6 +161,8 @@ __Monthly__
 
 <br>
 
+The analyzes shows that there were no Covid-related news in January, which was expected, as the pandemic was just starting at the time, and was concentrated in China. During the peak of pandemic and lockdowns in Europe, in April and May, as much as 50% of the articles mentioned Covid. After that, the share of Covid articles became a bit lower and stayed consistant at around 35% throughout the rest of the year.
+
 __By Category__
 
 <div style="text-align:center" >
@@ -173,13 +175,15 @@ __By Category__
 
 <div style="text-align:center" >
 
-<img src="photos/4.png" width="500" style="text-align:center" >
+<img src="photos/4.png" width="800" style="text-align:center" >
 
 </div>
 
 <br>
 
+It's interesting that the smallest share of Covid-19 articles, a little over 1%, are found within a category Crimes&Accidents, which normally contains all the tragic news, such as news abouth deaths and similar.
 
+### Script __UPZ_PK2.1.py__
 
 
 
