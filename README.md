@@ -219,7 +219,7 @@ __March__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_2.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_2.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -237,7 +237,7 @@ __April__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_3.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_3.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -255,7 +255,7 @@ __May__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_4.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_4.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -273,7 +273,7 @@ __June__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_5.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_5.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -291,7 +291,7 @@ __July__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_6.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_6.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -309,7 +309,7 @@ __August__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_7.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_7.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -327,7 +327,7 @@ __September__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_8.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_8.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -345,7 +345,7 @@ __October__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_9.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_9.png" width="250" style="text-align:center" >
 
 </div>
 
@@ -363,7 +363,7 @@ __November__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_10.png" width="500" style="text-align:center" >
+<img src="photos/Screenshot_10.png" width="250" style="text-align:center" >
 
 </div>
 
