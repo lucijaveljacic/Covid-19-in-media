@@ -94,7 +94,40 @@ The format of the collected data can be seen in the following image.
 
 ## Phase 2 - Analysis
 
+The goal of the Phase 2 is to to analyze the data in regards to the current pandemic of Covid-19. In other words, to see how often and when the articles mentioned the pandemic.
+
 ### Script __UPZ_PK2.1.py__
+
+This script quantifies the number of Covid-related articles and visualizes the data.
+
+In order to find the articles that mention Covid-19, it was necessary to create a list of keywords. Chosen words are:
+
+* korona, koronavirus, koronavirusa, Covid, Covid, cjepivo, cjepiva, epidemija, epidemiolozi, epidemiolog, pandemija, Beroš, Capak, Markotić, samoizolacija, karantena, lockdown
+
+The script reads the data from __podaci.csv__ into a DataFrame and after that it checks whether one of the keywords is mentioned either in the title or the text of each article. Only the records (articles) containing one of the keywords are kept in the DataFrame and stored in the file __korona_podaci.csv__. Additionally, the script creates another .txt file, __url_covid.txt__, containing only the URLs of the Covid-related articles. The script calculates the total number of articles and Covid-related articles and creates a Pie Chart showing the share of Covid-related articles in the total number articles, as shown in the images below. 
+
+<div style="text-align:center" >
+
+<img src="photos/count.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+
+<div style="text-align:center" >
+
+<img src="photos/pie.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+
+
+
+
+
 
 
  
