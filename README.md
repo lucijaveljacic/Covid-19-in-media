@@ -60,7 +60,7 @@ __Packages:__
 
 The script collects unique URLs from the web portal for the period from __1.1.2020. to 30.11.2020.__ and stores them in the file __url_list.txt__.
 
-The web portal has __8 categories__:
+Web portal has __8 categories__:
 * Economy
 * Politics
 * Self-government
@@ -76,6 +76,19 @@ When executing the code, the script prints the number of pages it has opened for
 
 ### Script __UPZ_PK1.py__
 
+The next script __UPZ_PK1.py__ uses a previously created file storing URLs to get the list of URLs. The script opens each URL and scrapes the article ID, URL, title, category, date, day, and time of publishing, as well as article text and number of votes (number of people who responded to the article).
+
+Collected data and corresponding headers are stored in a file __podaci.csv__.  Initially, only the headers are stored, and then the data for each article is stored separately, as a row, as the script goes through the list of URLs. 
+
+The format of the collected data can be seen in the following image.
+
+<div style="text-align:center" >
+
+<img src="photos/data.png" width="700" style="text-align:center" >
+
+</div>
+
+<br>
 
 
 
