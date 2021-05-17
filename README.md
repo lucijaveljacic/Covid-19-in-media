@@ -22,13 +22,16 @@ The __first part__ of the project focuses on collecting and cleaning data from t
 
 The goal of the __second part__ of the project is to analyze the collected data in regards to the current pandemic of Covid-19.  The analysis of the articles provided an insight into the presence of Covid-19 in the media.
 
-<div style="text-align:center" >
+
   
 ### Požeška kronika - Homepage
+
+<div style="text-align:center" >
 
 <img src="photos/pk.png" width="600" style="text-align:center" >
 
 </div>
+
 <br>
 
 ### Technical information
