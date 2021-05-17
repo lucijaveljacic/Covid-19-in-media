@@ -123,7 +123,63 @@ The script reads the data from __podaci.csv__ into a DataFrame and after that it
 
 <br>
 
+It is visible from the Pie Chart that a little bit over 1/3 (35,1%) of the articles in the given period of time mentioned Covid-19.
 
+Additional analyzes were conducted to compare the share of Covid articles during a particular day, month, or within a web portal category.
+
+__Daily__
+
+<div style="text-align:center" >
+
+<img src="photos/6.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__Monthly__
+
+<div style="text-align:center" >
+
+<img src="photos/7.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/2.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/3.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__By Category__
+
+<div style="text-align:center" >
+
+<img src="photos/8.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/4.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
 
 
 
