@@ -201,7 +201,7 @@ __February__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_1.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_1.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -209,7 +209,7 @@ __February__
 
 <div style="text-align:center" >
 
-<img src="photos/February.txt.png" width="500" style="text-align:center" >
+<img src="photos/February.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -219,7 +219,7 @@ __March__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_2.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_2.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -227,7 +227,7 @@ __March__
 
 <div style="text-align:center" >
 
-<img src="photos/March.txt.png" width="500" style="text-align:center" >
+<img src="photos/March.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -237,7 +237,7 @@ __April__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_3.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_3.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -245,7 +245,7 @@ __April__
 
 <div style="text-align:center" >
 
-<img src="photos/April.txt.png" width="500" style="text-align:center" >
+<img src="photos/April.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -255,7 +255,7 @@ __May__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_4.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_4.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -263,7 +263,7 @@ __May__
 
 <div style="text-align:center" >
 
-<img src="photos/May.txt.png" width="500" style="text-align:center" >
+<img src="photos/May.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -273,7 +273,7 @@ __June__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_5.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_5.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -281,7 +281,7 @@ __June__
 
 <div style="text-align:center" >
 
-<img src="photos/June.txt.png" width="500" style="text-align:center" >
+<img src="photos/June.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -291,7 +291,7 @@ __July__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_6.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_6.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -299,7 +299,7 @@ __July__
 
 <div style="text-align:center" >
 
-<img src="photos/July.txt.png" width="500" style="text-align:center" >
+<img src="photos/July.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -309,7 +309,7 @@ __August__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_7.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_7.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -317,7 +317,7 @@ __August__
 
 <div style="text-align:center" >
 
-<img src="photos/August.txt.png" width="500" style="text-align:center" >
+<img src="photos/August.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -327,7 +327,7 @@ __September__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_8.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_8.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -335,7 +335,7 @@ __September__
 
 <div style="text-align:center" >
 
-<img src="photos/September.txt.png" width="500" style="text-align:center" >
+<img src="photos/September.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -345,7 +345,7 @@ __October__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_9.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_9.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -353,7 +353,7 @@ __October__
 
 <div style="text-align:center" >
 
-<img src="photos/October.txt.png" width="500" style="text-align:center" >
+<img src="photos/October.txt.png" width="400" style="text-align:center" >
 
 </div>
 
@@ -363,7 +363,7 @@ __November__
 
 <div style="text-align:center" >
 
-<img src="photos/Screenshot_10.png" width="250" style="text-align:center" >
+<img src="photos/Screenshot_10.png" width="200" style="text-align:center" >
 
 </div>
 
@@ -371,7 +371,7 @@ __November__
 
 <div style="text-align:center" >
 
-<img src="photos/November.txt.png" width="500" style="text-align:center" >
+<img src="photos/November.txt.png" width="400" style="text-align:center" >
 
 </div>
 
