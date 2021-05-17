@@ -1,6 +1,6 @@
 # __Covid 19 in media__
 
-This project was made as a part of a course called Knowledge Management (Upravljanje znanjem). 
+This project was created as a part of the course called Knowledge Management (Upravljanje znanjem). 
 
 <b>Faculty:</b> Department of Informatics, University of Rijeka
 
@@ -175,7 +175,7 @@ __By Category__
 
 <div style="text-align:center" >
 
-<img src="photos/4.png" width="800" style="text-align:center" >
+<img src="photos/4.png" width="500" style="text-align:center" >
 
 </div>
 
@@ -183,9 +183,197 @@ __By Category__
 
 It's interesting that the smallest share of Covid-19 articles, a little over 1%, are found within a category Crimes&Accidents, which normally contains all the tragic news, such as news abouth deaths and similar.
 
-### Script __UPZ_PK2.1.py__
+### Script __UPZ_PK2.2.py__
 
+The last script of the second phase of the project refers to the analysis of the language discourse used on the portal. It analyzes the terms used in Covid-related articles.
 
+The script reads the text of the Covid-related articles from the file __korona_podaci.csv__ and saves it to a separate file __analysis.csv__. Additionally, it creates a .txt file __all_words.txt__ containing all the words from all those texts, but without any special signs.
 
+In order to properly analyze the language discourse, it is necessary to exclude stopwords, words that do not add much meaning to a sentence. They are contained in the file __stopwords.txt__. The script goes through all the words in __all_words.txt__, checks if they appear in the file containing stopwords, and in case they do not, it saves them to a file __words.txt__ - a file free of stopwords. After excluding stopwords, the script counts how many times each word appears.
 
+To analyze the language of the articles during different months, the date and text of each article are fetched from __korona_podaci.csv__. The texts from the same months are then merged and saved to a separate file __Text_po_mjesecima.csv__. 
  
+Lastly, function __monthly_words__ is created in order to do the analysis by month. The function, when called for each month, creates a .txt file with the name of the month, a .png file showing the 25 most used words during that month and also prints a table containing those 25 words and the number of times they appear in texts during the given month.
+
+There is no analysis for January, since only Covid-related articles are analyzed, and there were none during January.
+
+__February__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_1.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/February.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__March__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_2.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/March.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__April__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_3.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/April.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__May__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_4.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/May.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__June__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_5.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/June.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__July__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_6.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/July.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__August__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_7.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/August.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__September__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_8.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/September.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__October__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_9.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/October.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+__November__
+
+<div style="text-align:center" >
+
+<img src="photos/Screenshot_10.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
+<div style="text-align:center" >
+
+<img src="photos/November.txt.png" width="500" style="text-align:center" >
+
+</div>
+
+<br>
+
