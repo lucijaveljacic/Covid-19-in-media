@@ -14,11 +14,11 @@ This project was created as a part of the course called Knowledge Management (Up
 
 ## Description
 
-The purpose of this project is to analyze data collected from a Croatian web portal  [Požeška kronika](https://pozeska-kronika.hr) and to generate new knowledge based on this data.
+The purpose of this project is to analyse data collected from a Croatian web portal  [Požeška kronika](https://pozeska-kronika.hr) and to generate new knowledge based on this data.
 
 The __first part__ of the project focuses on collecting and cleaning data from the web portal. After scraping, the data is saved to a .csv file for future use in the second part of the project.
 
-The goal of the __second part__ of the project is to analyze the collected data in regards to the current pandemic of Covid-19.  The analysis of the articles provided an insight into the presence of Covid-19 in the media.
+The goal of the __second part__ of the project is to analyse the collected data in regards to the current pandemic of Covid-19.  The analysis of the articles provided an insight into the presence of Covid-19 in the media.
 
 
   
@@ -92,7 +92,7 @@ The format of the collected data can be seen in the following image.
 
 ## Phase 2 - Analysis
 
-The goal of the Phase 2 is to to analyze the data in regards to the current pandemic of Covid-19. In other words, to see how often and when the articles mentioned the pandemic.
+The goal of the Phase 2 is to to analyse the data in regards to the current pandemic of Covid-19. In other words, to see how often and when the articles mentioned the pandemic.
 
 ### Script __UPZ_PK2.1.py__
 
@@ -123,7 +123,7 @@ The script reads the data from __podaci.csv__ into a DataFrame and after that it
 
 It is visible from the Pie Chart that a little bit over 1/3 (35,1%) of the articles in the given period of time mentioned Covid-19.
 
-Additional analyzes were conducted to compare the share of Covid articles during a particular day, month, or within a web portal category.
+Additional analyses were conducted to compare the share of Covid articles during a particular day, month, or within a web portal category.
 
 __Daily__
 
@@ -161,7 +161,7 @@ __Monthly__
 
 <br>
 
-The analyzes shows that there were no Covid-related news in January, which was expected, as the pandemic was just starting at the time, and was concentrated in China. During the peak of pandemic and lockdowns in Europe, in April and May, as much as 50% of the articles mentioned Covid. After that, the share of Covid articles became a bit lower and stayed consistant at around 35% throughout the rest of the year.
+The analysis shows that there were no Covid-related news in January, which was expected, as the pandemic was just starting at the time, and was concentrated in China. During the peak of pandemic and lockdowns in Europe, in April and May, as much as 50% of the articles mentioned Covid. After that, the share of Covid articles became a bit lower and stayed consistant at around 35% throughout the rest of the year.
 
 __By Category__
 
@@ -185,17 +185,17 @@ It's interesting that the smallest share of Covid-19 articles, a little over 1%,
 
 ### Script __UPZ_PK2.2.py__
 
-The last script of the second phase of the project refers to the analysis of the language discourse used on the portal. It analyzes the terms used in Covid-related articles.
+The last script of the second phase of the project refers to the analysis of the language discourse used on the portal. It analyses the terms used in Covid-related articles.
 
 The script reads the text of the Covid-related articles from the file __korona_podaci.csv__ and saves it to a separate file __analysis.csv__. Additionally, it creates a .txt file __all_words.txt__ containing all the words from all those texts, but without any special signs.
 
-In order to properly analyze the language discourse, it is necessary to exclude stopwords, words that do not add much meaning to a sentence. They are contained in the file __stopwords.txt__. The script goes through all the words in __all_words.txt__, checks if they appear in the file containing stopwords, and in case they do not, it saves them to a file __words.txt__ - a file free of stopwords. After excluding stopwords, the script counts how many times each word appears.
+In order to properly analyse the language discourse, it is necessary to exclude stopwords, words that do not add much meaning to a sentence. They are contained in the file __stopwords.txt__. The script goes through all the words in __all_words.txt__, checks if they appear in the file containing stopwords, and in case they do not, it saves them to a file __words.txt__ - a file free of stopwords. After excluding stopwords, the script counts how many times each word appears.
 
-To analyze the language of the articles during different months, the date and text of each article are fetched from __korona_podaci.csv__. The texts from the same months are then merged and saved to a separate file __Text_po_mjesecima.csv__. 
+To analyse the language of the articles during different months, the date and text of each article are fetched from __korona_podaci.csv__. The texts from the same months are then merged and saved to a separate file __Text_po_mjesecima.csv__. 
  
-Lastly, function __monthly_words__ is created in order to do the analysis by month. The function, when called for each month, creates a .txt file with the name of the month, a .png file showing the 25 most used words during that month and also prints a table containing those 25 words and the number of times they appear in texts during the given month.
+Lastly, function __monthly_words__ is created in order to do the analysis by month. The function, when called for each month, creates a .txt file with the name of the month, a .png file showing the WorldCloud with the 25 most used words during that month and also prints a table containing those 25 words, and the number of times they appear in texts during the given month.
 
-There is no analysis for January, since only Covid-related articles are analyzed, and there were none during January.
+There is no analysis for January, since only Covid-related articles are analysed, and there were none during January.
 
 __February__
 
