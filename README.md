@@ -28,7 +28,7 @@ The goal of the __second part__ of the project is to analyze the collected data 
 
 <div style="text-align:center" >
 
-<img src="photos/pk.png" width="600" style="text-align:center" >
+<img src="photos/pk.png" width="1000" style="text-align:center" >
 
 </div>
 
