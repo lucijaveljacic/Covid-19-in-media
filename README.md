@@ -22,6 +22,26 @@ The __first part__ of the project focuses on collecting and cleaning data from t
 
 The goal of the __second part__ of the project is to analyze the collected data in regards to the current pandemic of Covid-19.  The analysis of the articles provided an insight into the presence of Covid-19 in the media.
 
+### Požeška kronika - Homepage
+
+<img src="photos/pk.png" width="600" style="text-align:center" >
+
+<br>
+
+### Technical information
+
+__OS:__ Windows 10
+
+__Tools and software:__
+* PyCharm
+* Python 3.8
+
+<hr>
+
+## Phase 1 - Web scraping
+
+
+
 
 
  
