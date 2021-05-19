@@ -100,7 +100,7 @@ This script quantifies the number of Covid-related articles and visualizes the d
 
 In order to find the articles that mention Covid-19, it was necessary to create a list of keywords. Chosen words are:
 
-* korona, koronavirus, koronavirusa, Covid, Covid, cjepivo, cjepiva, epidemija, epidemiolozi, epidemiolog, pandemija, Beroš, Capak, Markotić, samoizolacija, karantena, lockdown
+* korona, koronavirus, koronavirusa, COVID, Covid, cjepivo, cjepiva, epidemija, epidemiolozi, epidemiolog, pandemija, Beroš, Capak, Markotić, samoizolacija, karantena, lockdown
 
 The script reads the data from __podaci.csv__ into a DataFrame and after that it checks whether one of the keywords is mentioned either in the title or the text of each article. Only the records (articles) containing one of the keywords are kept in the DataFrame and stored in the file __korona_podaci.csv__. Additionally, the script creates another .txt file, __url_covid.txt__, containing only the URLs of the Covid-related articles. The script calculates the total number of articles and Covid-related articles and creates a Pie Chart showing the share of Covid-related articles in the total number articles, as shown in the images below. 
 
